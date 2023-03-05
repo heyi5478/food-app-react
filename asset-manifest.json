@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/food-app-react/static/css/main.aed4d5e0.css",
+    "main.js": "/food-app-react/static/js/main.34fe3837.js",
+    "index.html": "/food-app-react/index.html",
+    "main.aed4d5e0.css.map": "/food-app-react/static/css/main.aed4d5e0.css.map",
+    "main.34fe3837.js.map": "/food-app-react/static/js/main.34fe3837.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aed4d5e0.css",
+    "static/js/main.34fe3837.js"
+  ]
+}
