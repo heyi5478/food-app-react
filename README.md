@@ -13,6 +13,6 @@
 
 ## 技術
 
-主要:React.js
-樣式:Tailwind CSS
-圖片:(pexels)[https://www.pexels.com/zh-tw/]
+- 主要:React.js
+- 樣式:Tailwind CSS
+- 圖片:[pexels](https://www.pexels.com/zh-tw/)
